@@ -28,18 +28,18 @@
 
 ---
 
-**Backend Developer in Training**
+**Backend Developer Senior**
 
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
 Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
 
-I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, **Git** and am currently exploring **AWS & Cloud Computing**.
+I also have experience with **Java**, **SQLOracle**, **JavaScript**, **React**, **Python**, **Git** and am currently exploring **DevOps & Hacking**.
 
 <img align="right" width="240px" src="https://raw.githubusercontent.com/jotabitu/jotabitu/main/char.jpg" alt="Bloodborne Hunter"/>
 
 ```
-◈  Class     →  Backend / Full-Stack Apprentice
+◈  Class     →  Backend / Full-Stack Senior
 ◈  Origin    →  Brazil 🇧🇷
 ◈  Covenant  →  Open Source
 ◈  Build     →  INT / DEX
@@ -53,17 +53,13 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 ## Technologies
 
 <div align="center">
-
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=c9a84c)
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
-![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=c9a84c)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-111?style=for-the-badge&logo=oracle&logoColor=c9a84c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=c9a84c)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
 
 </div>
