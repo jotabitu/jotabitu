@@ -75,8 +75,9 @@ I also have experience with **Java**, **SQLOracle**, **JavaScript**, **React**, 
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jotabitu&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotabitu&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<img height="165em" src="https://helio-github-stats.vercel.app/api?username=jotabitu&custom_title=GitHub+Stats&theme=dark&title_color=c9a84c&text_color=cccccc&icon_color=c9a84c&ring_color=c9a84c&border_color=2a2a2a&bg_color=0d0d0d&hide_border=false&locale=pt-br&border_radius=4.5&show_icons=true&include_all_commits=true"/>
+<img height="165em" src="https://helio-github-stats.vercel.app/api/top-langs?username=jotabitu&layout=compact&stats_format=percentages&theme=dark&title_color=c9a84c&text_color=cccccc&border_color=2a2a2a&bg_color=0d0d0d&custom_title=Tech+Stack&card_width=50"/> 
+<!-- <a height="165em" href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=jotabitu&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" loading="lazy" /></a> -->
 
 </div>
 
