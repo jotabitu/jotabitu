@@ -36,7 +36,7 @@ Currently deepening my studies in **Python**, **SQL** and **web development**, a
 
 I also have experience with **Java**, **SQLOracle**, **JavaScript**, **React**, **Python**, **Git** and am currently exploring **DevOps & Hacking**.
 
-<img align="right" width="240px" src="https://raw.githubusercontent.com/jotabitu/jotabitu/main/char.jpg" alt="Bloodborne Hunter"/>
+<img align="right" width="240px" src="https://raw.githubusercontent.com/jotabitu/jotabitu/main/char2.png" alt="Bloodborne Hunter"/>
 
 ```
 ◈  Class     →  Backend / Full-Stack Senior
