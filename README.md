@@ -32,7 +32,7 @@
 
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
-Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
+Building scalable backend solutions with **Java**, **SQL**, and modern web technologies, focused on enterprise systems, integrations, and real-world software architecture.
 
 I also have experience with **Java**, **SQLOracle**, **JavaScript**, **React**, **Python**, **Git** and am currently exploring **DevOps & Hacking**.
 
