@@ -53,6 +53,7 @@ I also have experience with **Java**, **SQLOracle**, **JavaScript**, **React**, 
 ## Technologies
 
 <div align="center">
+  
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=c9a84c)
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
